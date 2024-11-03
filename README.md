@@ -1,5 +1,7 @@
 # JavaMultithreading
 > Some practice with Multithreading in Java <br/>
+> Few questions asked in the interview are below. <br/>
+> Additionally some of the files include understanding of code multithreading concepts. <br/>
 > These include correct and incorrect usage of thread safe variables <br/>
 > eg Mutex, Semaphore, Barriers etc.
 
